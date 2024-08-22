@@ -1,0 +1,25 @@
+{
+  "car": [
+    {
+      "carno": "2345",
+      "name": "Honda",
+      "city": "Bhopal",
+      "fees": "5000",
+      "id": "b362"
+    },
+    {
+      "id": "b672",
+      "carno": "9000",
+      "name": "bolero",
+      "city": "karod",
+      "fees": "3000"
+    },
+    {
+      "id": "3d37",
+      "carno": "8130",
+      "name": "scorpio",
+      "city": "rajgarh",
+      "fees": "5500"
+    }
+  ]
+}
